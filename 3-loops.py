@@ -10,7 +10,6 @@ while counter < 100:
     counter += 5
     print(counter, end=" ")
 
-
 print()
 
 counter = 5
@@ -19,5 +18,18 @@ while counter <= 100:
     print(counter, end=" ")
     counter += 5
 
+print()
 
+fruits = [
+    "Apple",
+    "Banana",
+    "Orange",
+    "Mango"
+]
+print("Our Fruits Selection")
+for fruits in fruits:
+    print(fruits)
+
+print(fruits)  # Mango
+print("Done")
 
