@@ -48,3 +48,9 @@ james_profile = {
 
 # list is mutable container
 # tuple is immutable list
+
+for city in cities:
+    print(city)
+    # print("finished")
+
+print("finished")
