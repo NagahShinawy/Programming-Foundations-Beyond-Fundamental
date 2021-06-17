@@ -13,3 +13,11 @@ regex:
 
 # use 'search' for find one
 # use 'findall' for find many
+
+##################################################################
+Pseudocode: writing a description of what you are trying to do using plain language.
+
+#################################################################
+
+rt mode : t refers to the text mode. There is no difference between r and rt or w and wt since text mode is the default.
+The default mode is 'r' (open for reading text, synonym of 'rt').
