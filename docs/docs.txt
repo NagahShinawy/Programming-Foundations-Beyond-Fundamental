@@ -1,0 +1,15 @@
+index vs find
+- index : returns ValueError : substring not found, if substring not found
+- find: returns -1 if substring not found
+
+- both of them uses to check if a substring is a part of string
+
+##################################################################
+regex:
+. ==> any char
++ ==> one or more
+* ==> zero or more
+? ==> zero or one
+
+# use 'search' for find one
+# use 'findall' for find many
