@@ -21,3 +21,25 @@ Pseudocode: writing a description of what you are trying to do using plain langu
 
 rt mode : t refers to the text mode. There is no difference between r and rt or w and wt since text mode is the default.
 The default mode is 'r' (open for reading text, synonym of 'rt').
+
+##########################  DEBUGGING  #########################################
+debugging: how to find problems and fixing it.
+
+- syntax error: code does not match the rules of the language
+
+if temp   ==> missing ':'
+    pass
+
+- runtime error: error happens in the running time ==> key error, index out of range
+- logical error: not expected output
+
+
+- Linting highlights syntactical and stylistic problems in your Python source code. code quality
+- linting : find bugs and check code style for more code quality.
+- write code accurately and efficient
+
+# #################### #################### ###################
+test cases: commands or scripts designed to test a specific scenario.
+
+# #################### #################### ###################
+oop : objects (program parts) contact with each others to make the program work.
