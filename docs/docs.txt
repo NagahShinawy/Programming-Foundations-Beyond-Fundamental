@@ -43,3 +43,6 @@ test cases: commands or scripts designed to test a specific scenario.
 
 # #################### #################### ###################
 oop : objects (program parts) contact with each others to make the program work.
+
+# #################### #################### ###################
+algorithms: a set of instructions to describe the exact result
